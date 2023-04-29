@@ -1,0 +1,13 @@
+{
+    "name": "anupam",
+    "mobile": "0123456789",
+    "address": {
+        "house": {
+            "number": "12"
+        },
+        "street": "Austin Road"
+    },
+    "city": "San Martino",
+    "state": "California",
+    "country": "United States Of America"
+}
