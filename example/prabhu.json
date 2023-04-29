@@ -1,0 +1,13 @@
+{
+    "name": "prabhu",
+    "mobile": "1234567890",
+    "address": {
+        "house": {
+            "number": "10"
+        },
+        "street": "Lincon Road"
+    },
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States Of America"
+}
